@@ -1,2 +1,2 @@
 # singhalmradul.github.io
-my website PS: it's just a dummy (under construction)
+my website PS: it's just a placeholder (under construction)

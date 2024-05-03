@@ -21,6 +21,7 @@ text-decoration:none;
 
 * {
 	-webkit-text-size-adjust: none;
+	box-sizing: border-box;
 }
 
 
@@ -393,8 +394,9 @@ header.page5 .hover {
 }
 
 .box img {
-	border: 3px solid #f4948b;
+	/* border: 3px solid #f4948b; */
 	border-radius: 500px;
+	/* margin: 40px; */
 	margin-bottom: 19px;
 }
 
@@ -608,4 +610,13 @@ footer a:hover {
 }
 #toTop:hover {
 	background-position: right 0;
+}
+
+.artist-img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	/* margin: 50px; */
+	padding: 50px;
+	outline: none;
 }
